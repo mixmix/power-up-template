@@ -36,3 +36,4 @@ To see how the format-url capability works, try pasting the following link into 
 
 ### Show Settings
 To see how the show-settings capability works, try clicking the gear button next to the Power-Up in the Power-Ups menu.
+
